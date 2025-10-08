@@ -12,4 +12,5 @@ Owen's focus to help others before himself highlights his struggle to pursue his
 
 **Works Cited**
 > Elle Mills. “DON’T FORGET about ME (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
+> 
 > Saunders, Elizabeth Grace. “Stop Being a People-Pleaser.” Harvard Business Review, 30 Oct. 2012, hbr.org/2012/10/stop-being-a-people-pleaser.
