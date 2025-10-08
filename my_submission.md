@@ -1,4 +1,4 @@
-# Journal Submission
+<h1>Journal Submission </h1>
 
 **Author:** Emily Scott
 
