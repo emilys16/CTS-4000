@@ -8,6 +8,9 @@ Owen's final step toward reclaiming his ambition and letting go of his jaded per
 
 Owen's focus to help others before himself highlights his struggle to pursue his own ambitions. In the final scene of the short film, there is a voiceover of young Kendall and Jamie reading their original letter back to Owen, saying, "P.S. Have you thought about granting your own wishes? Not sure if that's against the rules, but I think you deserve it" (Elle Mills). Through the change in his attitude from jaded to hopeful, the use of fog as an emotional metaphor, and writing a series of career goals, Owen proves that he deserves to grant his own wishes. As stated in the Harvard Business Review, “People-pleasing is not only what you do, but a strong part of who you believe you are… you need to condition yourself to be less sensitive to other people’s needs and more aware of your own so you can stay in balance” (Saunders). The short film and supporting article serve as an important life lesson for anyone who treats themselves like Owen. It is important to invest in your time and to stop letting other people influence what you do.
 
+
+ [!NOTE] Title
+> Contents
 **Works Cited**
 
 Elle Mills. “DON’T FORGET about ME (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
