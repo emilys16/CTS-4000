@@ -63,6 +63,34 @@ This insight provided by Foucault shows how power becomes an innate part of inst
 Foucault’s panopticism offers an intriguing lens for understanding the evolution of power and surveillance, from the actual physical design of Bentham’s Panopticon to the present day of digital surveillance and censorship. His theory reveals how institutions weave power into the fabric of our society to normalize control and influence behavior. His work, however, is not without its limitations, specifically when it comes to modern technological advances and the potential for resistance that comes with it. As we continue to become connected and monitored, Foucault’s insights remain critical for questioning the systems that shape our lives. Are we, as Foucault suggests, prisoners of a disciplinary society, or can we resist and reclaim our autonomy in the face of pervasive surveillance?
 
 ---
+# Submission Review
+## Feedback
+#### **Communication, Style, and Polish (/5)**
+
+The essay is clearly written and easy to follow. You explain complex ideas in an engaging, accessible way. The flow between sections feels smooth, and transitions help guide the reader. The tone is appropriately academic.
+
+**Score: 5 / 5**
+---
+#### **Relevance to Special Issue Theme (/5)**
+
+The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems.
+
+**Score: 4.5 / 5**
+---
+#### **Originality, Creativity, and Strength of Ideas (/5)**
+
+The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. 
+
+**Score: 5 / 5**
+---
+#### **Accuracy and Completion of Markdown Code (/5)**
+
+The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file.
+
+**Score: 4.5 / 5**
+---
+#### **Final Score:** 19/20
+---
 
 ## Footnotes
 
@@ -71,34 +99,3 @@ Foucault’s panopticism offers an intriguing lens for understanding the evoluti
 [^3]: Ibid., 208.  
 [^4]: Ibid., 206.  
 
-# Submission Review
-## Feedback
-#### **Communication, Style, and Polish (/5)**
-
-The essay is clearly written and easy to follow. You explain complex ideas in an engaging, accessible way. The flow between sections feels smooth, and transitions help guide the reader. The tone is appropriately academic.
-
-**Score: 5 / 5**
-
----
-#### **Relevance to Special Issue Theme (/5)**
-
-The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems.
-
-**Score: 4.5 / 5**
-
----
-#### **Originality, Creativity, and Strength of Ideas (/5)**
-
-The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. 
-
-**Score: 5 / 5**
-
----
-#### **Accuracy and Completion of Markdown Code (/5)**
-
-The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file.
-
-**Score: 4.5 / 5**
-
----
-#### **Final Scores:** 19/20
