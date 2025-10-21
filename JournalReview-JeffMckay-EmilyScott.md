@@ -69,27 +69,27 @@ Foucault’s panopticism offers an intriguing lens for understanding the evoluti
 
 The essay is clearly written and easy to follow. You explain complex ideas in an engaging, accessible way. The flow between sections feels smooth, and transitions help guide the reader. The tone is appropriately academic.
 
-**Score: 5 / 5**
+Score: 5 / 5
 ---
-#### **Relevance to Special Issue Theme (/5)**
+**Relevance to Special Issue Theme (/5)**
 
 The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems.
 
-**Score: 4.5 / 5**
+Score: 4.5 / 5
 ---
-#### **Originality, Creativity, and Strength of Ideas (/5)**
+**Originality, Creativity, and Strength of Ideas (/5)**
 
 The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. 
 
-**Score: 5 / 5**
+Score: 5 / 5
 ---
-#### **Accuracy and Completion of Markdown Code (/5)**
+**Accuracy and Completion of Markdown Code (/5)**
 
 The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file.
 
-**Score: 4.5 / 5**
+Score: 4.5 / 5
 ---
-#### **Final Score:** 19/20
+**Final Score: 19/20**
 ---
 
 ## Footnotes
