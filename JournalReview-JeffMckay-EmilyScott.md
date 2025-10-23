@@ -67,7 +67,7 @@ Foucault’s panopticism offers an intriguing lens for understanding the evoluti
 ## Feedback
 #### **Communication, Style, and Polish (/5)**
 
-The essay is clearly written and easy to follow. You explain complex ideas in an engaging, accessible way. The flow between sections feels smooth, and transitions help guide the reader. The tone is appropriately academic.
+The essay is clearly written and easy to follow. You explain complex ideas in an engaging, accessible way. The flow between sections feels smooth, and transitions help guide the reader. The tone is appropriately academic. To further enhance your communication your essay could include integrated images. It would be benefitial to maybe add Jeremy Bentham’s architectural plan of the Panopticon of the classic circular prison diagram with a central watchtower or an infographic. 
 
 Score: 5 / 5
 
