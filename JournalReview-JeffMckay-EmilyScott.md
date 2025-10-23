@@ -74,7 +74,7 @@ Score: 5 / 5
 ---
 **Relevance to Special Issue Theme (/5)**
 
-The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems. To further tie your essay to the theme, you could touch on how the opinions and trends on what people see online or what is said by viewers affect the type of art or content that a creator makes. 
+The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems. You might be interested to checkout Trevor Paglen’s artwork documenting secret data centers and spy satellites or Adam Harvey’s “CV Dazzle” project, which uses makeup and fashion to confuse facial recognition. To further tie your essay to the theme, you could touch on how the opinions and trends on what people see online or what is said by viewers affect the type of art or content that a creator makes. 
 
 Score: 4.5 / 5
 
