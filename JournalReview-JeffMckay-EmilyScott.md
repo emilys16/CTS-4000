@@ -81,7 +81,7 @@ Score: 4.5 / 5
 ---
 **Originality, Creativity, and Strength of Ideas (/5)**
 
-The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. 
+The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. It might be interesting to compare Foucault's work to that of Gilles Deleuze's interpreation of it in Postscript on the Societies of Control. You touched on the modern interpreations of the panopticon, you could also touch on how it has integrated into popculture. For example, Black Mirror's episode "Nosedive" or the Netflix movie The Social Dilemma. 
 
 Score: 5 / 5
 
