@@ -88,7 +88,7 @@ Score: 5 / 5
 ---
 **Accuracy and Completion of Markdown Code (/5)**
 
-The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file.
+The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file so the reaader can get a sense of who is writing the work. As mentioned in the communication section, you could add some images in your markdown at the end of sections to make it neat and informative. 
 
 Score: 4.5 / 5
 
