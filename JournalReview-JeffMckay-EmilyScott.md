@@ -94,6 +94,7 @@ Score: 4.5 / 5
 
 ---
 **Final Score: 19/20**
+
 ---
 
 ## Footnotes
