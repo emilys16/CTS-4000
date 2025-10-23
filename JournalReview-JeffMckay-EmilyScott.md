@@ -74,21 +74,21 @@ Score: 5 / 5
 ---
 **Relevance to Special Issue Theme (/5)**
 
-The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems. To further tie your essay to the theme you could touch on how the opinions and trends on what people see online or what is said by viewers, effects the type of art or content that a creater makes. 
+The essay fits well with the theme of _A Byte of Creativity_ by connecting Foucault’s ideas about surveillance to digital platforms like social media and data tracking. These examples make the theory feel current and relevant. It could be interesting to touch on how people use creativity or digital tools to resist or expose these systems. To further tie your essay to the theme, you could touch on how the opinions and trends on what people see online or what is said by viewers affect the type of art or content that a creator makes. 
 
 Score: 4.5 / 5
 
 ---
 **Originality, Creativity, and Strength of Ideas (/5)**
 
-The essay shows strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. It might be interesting to compare Foucault's work to that of Gilles Deleuze's interpreation of it in Postscript on the Societies of Control. You touched on the modern interpreations of the panopticon, you could also touch on how it has integrated into popculture. For example, Black Mirror's episode "Nosedive" or the Netflix movie The Social Dilemma. You touched on surveillance in institutions. You could also compare Foucault's Panopticon to Althusser’s Ideological State Apparatuses by drawing parallels between Foucault’s idea and Althusser’s idea of ideological structures (like schools and media) that reproduce societal norms.
+The essay shows a strong understanding and thoughtful application of Foucault’s work to modern life. Using examples from workplaces, schools, and technology helps make the ideas relatable. It might be interesting to compare Foucault's work to that of Gilles Deleuze's interpretation of it in Postscript on the Societies of Control. You touched on the modern interpretations of the panopticon; you could also touch on how it has integrated into pop culture. For example, Black Mirror's episode "Nosedive" or the Netflix movie The Social Dilemma. You also touched on surveillance in institutions. You could compare Foucault's Panopticon to Althusser’s Ideological State Apparatuses by drawing parallels between Foucault’s idea and Althusser’s idea of ideological structures (like schools and media) that reproduce societal norms.
 
 Score: 5 / 5
 
 ---
 **Accuracy and Completion of Markdown Code (/5)**
 
-The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file so the reaader can get a sense of who is writing the work. As mentioned in the communication section, you could add some images in your markdown at the end of sections to make it neat and informative. 
+The Markdown formatting is neat and complete. It includes all key elements (title, author, tags, abstract, and footnotes). Headings are consistent and easy to read. You could also add a brief author bio to the beginning or end of your file so the reader can get a sense of who is writing the work. As mentioned in the communication section, you could add some images in your markdown at the end of sections to make it neat and informative. 
 
 Score: 4.5 / 5
 
