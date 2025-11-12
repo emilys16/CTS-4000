@@ -32,7 +32,7 @@ Owen's focus to help others before himself highlights his struggle to pursue his
 
 <h1>Revisions</h1>
 
-## Summary of Feedback
+### Summary of Feedback
 1. Tighten a few sentences and standardize captalization for the film title 
 2. Make the essay more relevant 
 3. Add a counterargument and explain why the original argument is the strongest. 
