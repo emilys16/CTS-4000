@@ -1,5 +1,7 @@
 <h1>Journal Submission </h1>
 
+**Title: Don’t Forget About Me: A Short Essay on Ambition**
+
 **Author:** Emily Scott
 
 **Issue Number:** 03
@@ -27,3 +29,11 @@ Owen's focus to help others before himself highlights his struggle to pursue his
 > Elle Mills. “DON’T FORGET about ME (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
 > 
 > Saunders, Elizabeth Grace. “Stop Being a People-Pleaser.” Harvard Business Review, 30 Oct. 2012, hbr.org/2012/10/stop-being-a-people-pleaser.
+
+<h1>Revisions</h1>
+
+## Summary of Feedback
+1. Tighten a few sentences and standardize captalization for the film title 
+2. Make the essay more relevant 
+3. Add a counterargument and explain why the original argument is the strongest. 
+4. Add a full metadata section, fix and embed all links, convert in-text references to footnotes, check heading consistency, and include alt-text if you add images.
