@@ -1,14 +1,11 @@
 <h1>Journal Submission </h1>
 
-**Title: Don’t Forget About Me: A Short Essay on Ambition**
-
-**Author:** Emily Scott
-
-**Issue Number:** 03
-
-**Date:** Oct. 8, 2025
-
-**Summary (Abstract)**
+>**Title: Don’t Forget About Me: A Short Essay on Ambition**
+>**Author:** Emily Scott
+>**Issue Number:** 03
+>**Date:** Oct. 8, 2025
+>**Tags:** persuasive writing, english, short film, ambition, essay
+>**Summary (Abstract):**
 
 “Don’t Forget About Me” (2025), directed by Elle Mills, explores the cost of people-pleasing and the struggle to reclaim personal ambition. The short film follows Owen Connelly, a former child star known as Magical Matty, who has grown jaded after years of prioritizing others’ wishes over his own. Owen’s journey highlights the tension between selflessness and self-fulfillment. The story underscores the emotional toll of neglecting personal aspirations for external approval, offering a poignant reflection on the importance of self-worth and ambition. Mills’ film serves as a reminder that pursuing one’s own goals is essential for genuine growth and fulfillment.
 
@@ -33,7 +30,10 @@ Owen's focus to help others before himself highlights his struggle to pursue his
 4. Add a full metadata section, fix and embed all links, convert in-text references to footnotes, check heading consistency, and include alt-text if you add images.
 
 ### List of changes 
-- I followed suggestion 1 of standardizing the capitalization of the film title. Some were in all uppercase like in the original YouTube title but I changed them all to regular case to be grammatically correct. I also put all the instances of the title in quotes. 
+- I followed suggestion 1 of standardizing the capitalization of the film title. Some were in all uppercase like in the original YouTube title but I changed them all to regular case to be grammatically correct. I also put all the instances of the title in quotes.
+- I did not follow suggestion 2. Although we could use the submission review as a chance to submit a relevant assignment to the journal it was not mandatory to do so. As this is only my second semester doing CTS courses for my minor I did not have any assignments relevant to the issue theme.
+- I did not follow suggestion 3. The original argument was using metaphorical themes throughout the short film to explain the main characters change in ambition and confidence. I feel as though an additional counterarguemnt may confuse the reader of the original intention of the essay. 
+- I followed suggestion 4. I added a title to the metadata section as well as tags. I also blockquoted the metadata. 
 
 
 ## Footnotes
