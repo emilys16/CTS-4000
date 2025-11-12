@@ -1,5 +1,7 @@
 <h1>Journal Submission </h1>
+
 ---
+
 > **Title: Don’t Forget About Me: A Short Essay on Ambition**
 > **Author:** Emily Scott
 > **Issue Number:** 03
@@ -10,6 +12,7 @@
 “Don’t Forget About Me” (2025), directed by Elle Mills, explores the cost of people-pleasing and the struggle to reclaim personal ambition. The short film follows Owen Connelly, a former child star known as Magical Matty, who has grown jaded after years of prioritizing others’ wishes over his own. Owen’s journey highlights the tension between selflessness and self-fulfillment. The story underscores the emotional toll of neglecting personal aspirations for external approval, offering a poignant reflection on the importance of self-worth and ambition. Mills’ film serves as a reminder that pursuing one’s own goals is essential for genuine growth and fulfillment.
 
 ---
+
 <h2>Don’t Forget About Me: Short Essay on Ambition</h2>
 
 In an epidemic of people pleasing, "Don’t Forget About Me" (2025), directed by Elle Mills, displays the repercussions of neglecting your own goals and self-worth. It has become common today to believe that the act of people pleasing and consistently helping others will lead them to reciprocate their help and praise when you are in need. "Don’t Forget About Me: follows the main character, Owen Connelly, as the grown-up, jaded version of his former self. He grew up as Magical Matty, granter of all wishes. Although Magical Matty was just a fictional character in a fictional show, it is evident that the character had a mental impact on him as he was always working for other people and always granting other people's wishes. He has transformed from a widely loved child star into a distant figure, removed from the fame that once defined him. By focusing on helping others rather than himself, Owen overlooks the deeper problem of avoiding his personal ambition and fulfillment. He uses selflessness as a way to sidestep the discomfort of pursuing his own goals. Throughout the short film, viewers follow Owen's journey as he reclaims his personal ambition through changes in attitude, emotional metaphors, and the creation of his own list of wishes.
