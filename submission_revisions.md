@@ -1,4 +1,4 @@
-<h1>Journal Submission </h1>
+<h1>Submission </h1>
 
 > **Title:** Don’t Forget About Me: A Short Essay on Ambition
 > 
