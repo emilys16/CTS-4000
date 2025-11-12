@@ -1,11 +1,11 @@
 <h1>Journal Submission </h1>
 
->**Title: Don’t Forget About Me: A Short Essay on Ambition**
->**Author:** Emily Scott
->**Issue Number:** 03
->**Date:** Oct. 8, 2025
->**Tags:** persuasive writing, english, short film, ambition, essay
->**Summary (Abstract):**
+> **Title: Don’t Forget About Me: A Short Essay on Ambition**
+> **Author:** Emily Scott
+> **Issue Number:** 03
+> **Date:** Oct. 8, 2025
+> **Tags:** persuasive writing, english, short film, ambition, essay
+> **Summary (Abstract):**
 
 “Don’t Forget About Me” (2025), directed by Elle Mills, explores the cost of people-pleasing and the struggle to reclaim personal ambition. The short film follows Owen Connelly, a former child star known as Magical Matty, who has grown jaded after years of prioritizing others’ wishes over his own. Owen’s journey highlights the tension between selflessness and self-fulfillment. The story underscores the emotional toll of neglecting personal aspirations for external approval, offering a poignant reflection on the importance of self-worth and ambition. Mills’ film serves as a reminder that pursuing one’s own goals is essential for genuine growth and fulfillment.
 
