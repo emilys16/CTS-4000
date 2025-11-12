@@ -14,7 +14,7 @@
 
 <h2>Don’t Forget About Me: Short Essay on Ambition</h2>
 
-In an epidemic of people pleasing, DON'T FORGET ABOUT ME (2025), directed by Elle Mills, displays the repercussions of neglecting your own goals and self-worth. It has become common today to believe that the act of people pleasing and consistently helping others will lead them to reciprocate their help and praise when you are in need. DON’T FORGET ABOUT ME follows the main character, Owen Connelly, as the grown-up, jaded version of his former self. He grew up as Magical Matty, granter of all wishes. Although Magical Matty was just a fictional character in a fictional show, it is evident that the character had a mental impact on him as he was always working for other people and always granting other people's wishes. He has transformed from a widely loved child star into a distant figure, removed from the fame that once defined him. By focusing on helping others rather than himself, Owen overlooks the deeper problem of avoiding his personal ambition and fulfillment. He uses selflessness as a way to sidestep the discomfort of pursuing his own goals. Throughout the short film, viewers follow Owen's journey as he reclaims his personal ambition through changes in attitude, emotional metaphors, and the creation of his own list of wishes.
+In an epidemic of people pleasing, "Don’t Forget About Me" (2025), directed by Elle Mills, displays the repercussions of neglecting your own goals and self-worth. It has become common today to believe that the act of people pleasing and consistently helping others will lead them to reciprocate their help and praise when you are in need. "Don’t Forget About Me: follows the main character, Owen Connelly, as the grown-up, jaded version of his former self. He grew up as Magical Matty, granter of all wishes. Although Magical Matty was just a fictional character in a fictional show, it is evident that the character had a mental impact on him as he was always working for other people and always granting other people's wishes. He has transformed from a widely loved child star into a distant figure, removed from the fame that once defined him. By focusing on helping others rather than himself, Owen overlooks the deeper problem of avoiding his personal ambition and fulfillment. He uses selflessness as a way to sidestep the discomfort of pursuing his own goals. Throughout the short film, viewers follow Owen's journey as he reclaims his personal ambition through changes in attitude, emotional metaphors, and the creation of his own list of wishes.
 
 Owen's personal ambition evolves throughout the short film through a shift in his attitude. At first, he appears detached and indifferent, lounging in a chair, eating cereal, and casually joking about being on shrooms. He explains the dark consequences of the list of wishes with unsettling nonchalance. He goes on to explain that if they are not completed in time, "sacrifices will be made and a loved one will disappear" [^1]. Even as the sibling’s debate whether to send him to a psych ward, Owen remains unbothered. His sarcastic remark, "Hey, do you guys wanna get going on this list, or are you just fine with mommy going bye-bye?" shows his lack of care for the wishes he is granting, the siblings, or the acting job the situation is supposed to be [^1]. However, his attitude shifts by the end of the film to be more positive and caring. In the car ride to fulfill the final wish, Owen challenges the siblings to view their bitterness toward their father from a different perspective by asking, "If he gets the chance to start over, shouldn't your mom get that same chance?" [^1]. This moment reflects a deeper change in Owen's mindset and suggests that he is may also be hoping for a chance to start over.
 
@@ -24,16 +24,6 @@ Owen's final step toward reclaiming his ambition and letting go of his jaded per
 
 Owen's focus to help others before himself highlights his struggle to pursue his own ambitions. In the final scene of the short film, there is a voiceover of young Kendall and Jamie reading their original letter back to Owen, saying, "P.S. Have you thought about granting your own wishes? Not sure if that's against the rules, but I think you deserve it" [^1]. Through the change in his attitude from jaded to hopeful, the use of fog as an emotional metaphor, and writing a series of career goals, Owen proves that he deserves to grant his own wishes. As stated in the Harvard Business Review, “People-pleasing is not only what you do, but a strong part of who you believe you are… you need to condition yourself to be less sensitive to other people’s needs and more aware of your own so you can stay in balance”[^2]. The short film and supporting article serve as an important life lesson for anyone who treats themselves like Owen. It is important to invest in your time and to stop letting other people influence what you do.
 
-
-### Works Cited
-> Elle Mills. “DON’T FORGET about ME (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
-> 
-> Saunders, Elizabeth Grace. “Stop Being a People-Pleaser.” Harvard Business Review, 30 Oct. 2012, hbr.org/2012/10/stop-being-a-people-pleaser.
->
-## Footnotes
-[^1]: Elle Mills. “DON’T FORGET about ME (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
-[^2]: Saunders, Elizabeth Grace. “Stop Being a People-Pleaser.” Harvard Business Review, 30 Oct. 2012, hbr.org/2012/10/stop-being-a-people-pleaser.
-
 <h1>Revisions</h1>
 
 ### Summary of Feedback
@@ -41,3 +31,13 @@ Owen's focus to help others before himself highlights his struggle to pursue his
 2. Make the essay more relevant 
 3. Add a counterargument and explain why the original argument is the strongest. 
 4. Add a full metadata section, fix and embed all links, convert in-text references to footnotes, check heading consistency, and include alt-text if you add images.
+
+### List of changes 
+- I followed suggestion 1 of standardizing the capitalization of the film title. Some were in all uppercase like in the original YouTube title but I changed them all to regular case to be grammatically correct. I also put all the instances of the title in quotes. 
+
+
+## Footnotes
+[^1]: Elle Mills. “Don’t Forget About Me (2025) | a Coming-of-Age Short Film.” YouTube, 12 May 2025, www.youtube.com/watch?v=5zr_9-5Xw9s.
+[^2]: Saunders, Elizabeth Grace. “Stop Being a People-Pleaser.” Harvard Business Review, 30 Oct. 2012, hbr.org/2012/10/stop-being-a-people-pleaser.
+
+
