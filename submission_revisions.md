@@ -6,7 +6,7 @@
 > 
 > **Issue Number:** 03
 > 
-> **Date:** Oct. 8, 2025
+> **Date:** Aug. 8, 2025
 > 
 > **Tags:** persuasive writing, english, short film, ambition, essay
 ---
