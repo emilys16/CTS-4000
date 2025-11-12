@@ -1,6 +1,6 @@
 <h1>Journal Submission </h1>
 
-> **Title: Don’t Forget About Me: A Short Essay on Ambition**
+> **Title:** Don’t Forget About Me: A Short Essay on Ambition
 > 
 > **Author:** Emily Scott
 > 
