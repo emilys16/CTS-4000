@@ -3,9 +3,13 @@
 ---
 
 > **Title: Don’t Forget About Me: A Short Essay on Ambition**
+> 
 > **Author:** Emily Scott
+> 
 > **Issue Number:** 03
+> 
 > **Date:** Oct. 8, 2025
+> 
 > **Tags:** persuasive writing, english, short film, ambition, essay
 ---
 
