@@ -29,19 +29,6 @@ Owen's final step toward reclaiming his ambition and letting go of his jaded per
 
 Owen's focus to help others before himself highlights his struggle to pursue his own ambitions. In the final scene of the short film, there is a voiceover of young Kendall and Jamie reading their original letter back to Owen, saying, "P.S. Have you thought about granting your own wishes? Not sure if that's against the rules, but I think you deserve it" [^1]. Through the change in his attitude from jaded to hopeful, the use of fog as an emotional metaphor, and writing a series of career goals, Owen proves that he deserves to grant his own wishes. As stated in the Harvard Business Review, “People-pleasing is not only what you do, but a strong part of who you believe you are… you need to condition yourself to be less sensitive to other people’s needs and more aware of your own so you can stay in balance”[^2]. The short film and supporting article serve as an important life lesson for anyone who treats themselves like Owen. It is important to invest in your time and to stop letting other people influence what you do.
 
-<h1>Revisions</h1>
-
-### Summary of Feedback
-1. Tighten a few sentences and standardize captalization for the film title 
-2. Make the essay more relevant 
-3. Add a counterargument and explain why the original argument is the strongest. 
-4. Add a full metadata section, fix and embed all links, convert in-text references to footnotes, check heading consistency, and include alt-text if you add images.
-
-### List of changes 
-- I followed suggestion 1 of standardizing the capitalization of the film title. Some were in all uppercase like in the original YouTube title but I changed them all to regular case to be grammatically correct. I also put all the instances of the title in quotes.
-- I did not follow suggestion 2. Although we could use the submission review as a chance to submit a relevant assignment to the journal it was not mandatory to do so. As this is only my second semester doing CTS courses for my minor I did not have any assignments relevant to the issue theme.
-- I did not follow suggestion 3. The original argument was using metaphorical themes throughout the short film to explain the main characters change in ambition and confidence. I feel as though an additional counterarguemnt may confuse the reader of the original intention of the essay. 
-- I followed suggestion 4. I added the course title and course professor to the metadata section as well as tags. I then blockquoted the metadata. I also converted my works cited and in-text citations into footnotes. 
 
 
 ## Footnotes
